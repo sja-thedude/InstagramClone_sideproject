@@ -13,50 +13,33 @@
 
 [Live Demo Link](https://livedemo.com)
 
+## To get started-:
 
-## Getting Started
+- Run `npm install` to install the dependencies
+- Run `npm start` to run on browser
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+👤 **SYEDA JUVERIA AFREEN**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
-
-👤 **Syeda Juveria Afreen**
-
-- GitHub: [@sja-thedude](https://github.com/)
-- Twitter: [@sja_thedude](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/)
+- GitHub: [@githubhandle](https://github.com/sja-thedude)
+- Twitter: [@twitterhandle](https://twitter.com/sja_thedude)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sja_thedude)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/sja-thedude/Instagram-Clone/issues).
+
+
+## Acknowledgements
+
+- I would like to thank microverse for the opportunity.
+- I would like to thank my career coach (Mustapha) for his guidance and support.
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
